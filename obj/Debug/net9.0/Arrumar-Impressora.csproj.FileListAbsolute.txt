@@ -12,3 +12,17 @@ C:\Users\ericv\OneDrive\Documentos\Arrumar-Impressora\obj\Debug\net9.0\refint\Ar
 C:\Users\ericv\OneDrive\Documentos\Arrumar-Impressora\obj\Debug\net9.0\Arrumar-Impressora.pdb
 C:\Users\ericv\OneDrive\Documentos\Arrumar-Impressora\obj\Debug\net9.0\Arrumar-Impressora.genruntimeconfig.cache
 C:\Users\ericv\OneDrive\Documentos\Arrumar-Impressora\obj\Debug\net9.0\ref\Arrumar-Impressora.dll
+E:\Arrumar-Impressora\bin\Debug\net9.0\Arrumar-Impressora.exe
+E:\Arrumar-Impressora\bin\Debug\net9.0\Arrumar-Impressora.deps.json
+E:\Arrumar-Impressora\bin\Debug\net9.0\Arrumar-Impressora.runtimeconfig.json
+E:\Arrumar-Impressora\bin\Debug\net9.0\Arrumar-Impressora.dll
+E:\Arrumar-Impressora\bin\Debug\net9.0\Arrumar-Impressora.pdb
+E:\Arrumar-Impressora\obj\Debug\net9.0\Arrumar-Impressora.GeneratedMSBuildEditorConfig.editorconfig
+E:\Arrumar-Impressora\obj\Debug\net9.0\Arrumar-Impressora.AssemblyInfoInputs.cache
+E:\Arrumar-Impressora\obj\Debug\net9.0\Arrumar-Impressora.AssemblyInfo.cs
+E:\Arrumar-Impressora\obj\Debug\net9.0\Arrumar-Impressora.csproj.CoreCompileInputs.cache
+E:\Arrumar-Impressora\obj\Debug\net9.0\Arrumar-Impressora.dll
+E:\Arrumar-Impressora\obj\Debug\net9.0\refint\Arrumar-Impressora.dll
+E:\Arrumar-Impressora\obj\Debug\net9.0\Arrumar-Impressora.pdb
+E:\Arrumar-Impressora\obj\Debug\net9.0\Arrumar-Impressora.genruntimeconfig.cache
+E:\Arrumar-Impressora\obj\Debug\net9.0\ref\Arrumar-Impressora.dll

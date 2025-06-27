@@ -4,8 +4,8 @@ class Program
 {
     static async Task Main(string[] args)
     {
-        string printerList = await File.ReadAllTextAsync("C:/Users/ericv/OneDrive/Documentos/Arrumar-Impressora");
-        Console.WriteLine(printerList);
+        string printerList = await File.ReadAllTextAsync("E:/Arrumar-Impressora/printers.json");
+        
         Printer[] printers = [];
         foreach (Printer p in printers)
         {

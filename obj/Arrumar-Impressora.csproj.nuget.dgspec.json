@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ericv\\OneDrive\\Documentos\\Arrumar-Impressora\\Arrumar-Impressora.csproj": {}
+    "E:\\Arrumar-Impressora\\Arrumar-Impressora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ericv\\OneDrive\\Documentos\\Arrumar-Impressora\\Arrumar-Impressora.csproj": {
+    "E:\\Arrumar-Impressora\\Arrumar-Impressora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ericv\\OneDrive\\Documentos\\Arrumar-Impressora\\Arrumar-Impressora.csproj",
+        "projectUniqueName": "E:\\Arrumar-Impressora\\Arrumar-Impressora.csproj",
         "projectName": "Arrumar-Impressora",
-        "projectPath": "C:\\Users\\ericv\\OneDrive\\Documentos\\Arrumar-Impressora\\Arrumar-Impressora.csproj",
+        "projectPath": "E:\\Arrumar-Impressora\\Arrumar-Impressora.csproj",
         "packagesPath": "C:\\Users\\ericv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ericv\\OneDrive\\Documentos\\Arrumar-Impressora\\obj\\",
+        "outputPath": "E:\\Arrumar-Impressora\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ericv\\AppData\\Roaming\\NuGet\\NuGet.Config"
