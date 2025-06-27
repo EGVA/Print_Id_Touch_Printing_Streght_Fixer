@@ -1,0 +1,14 @@
+C:\Users\ericv\OneDrive\Documentos\Arrumar-Impressora\bin\Debug\net9.0\Arrumar-Impressora.exe
+C:\Users\ericv\OneDrive\Documentos\Arrumar-Impressora\bin\Debug\net9.0\Arrumar-Impressora.deps.json
+C:\Users\ericv\OneDrive\Documentos\Arrumar-Impressora\bin\Debug\net9.0\Arrumar-Impressora.runtimeconfig.json
+C:\Users\ericv\OneDrive\Documentos\Arrumar-Impressora\bin\Debug\net9.0\Arrumar-Impressora.dll
+C:\Users\ericv\OneDrive\Documentos\Arrumar-Impressora\bin\Debug\net9.0\Arrumar-Impressora.pdb
+C:\Users\ericv\OneDrive\Documentos\Arrumar-Impressora\obj\Debug\net9.0\Arrumar-Impressora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ericv\OneDrive\Documentos\Arrumar-Impressora\obj\Debug\net9.0\Arrumar-Impressora.AssemblyInfoInputs.cache
+C:\Users\ericv\OneDrive\Documentos\Arrumar-Impressora\obj\Debug\net9.0\Arrumar-Impressora.AssemblyInfo.cs
+C:\Users\ericv\OneDrive\Documentos\Arrumar-Impressora\obj\Debug\net9.0\Arrumar-Impressora.csproj.CoreCompileInputs.cache
+C:\Users\ericv\OneDrive\Documentos\Arrumar-Impressora\obj\Debug\net9.0\Arrumar-Impressora.dll
+C:\Users\ericv\OneDrive\Documentos\Arrumar-Impressora\obj\Debug\net9.0\refint\Arrumar-Impressora.dll
+C:\Users\ericv\OneDrive\Documentos\Arrumar-Impressora\obj\Debug\net9.0\Arrumar-Impressora.pdb
+C:\Users\ericv\OneDrive\Documentos\Arrumar-Impressora\obj\Debug\net9.0\Arrumar-Impressora.genruntimeconfig.cache
+C:\Users\ericv\OneDrive\Documentos\Arrumar-Impressora\obj\Debug\net9.0\ref\Arrumar-Impressora.dll

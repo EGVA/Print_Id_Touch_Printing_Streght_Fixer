@@ -21,14 +21,16 @@ namespace Models
             Ip = ip;
         }
 
-        async Task<HttpStatusCode?> LoginPrinter(Printer printer)
+        async Task<HttpStatusCode?> LoginPrinter()
         {
-            HttpClient client = new HttpClient()
+            // Setups HttpClient for connection
+            HttpClient client = new()
             {
                 BaseAddress = new Uri(Ip)
             };
 
-            using StringContent jsonContent = new(JsonSerializer.Serialize(new
+            // Printer login parameters object.
+            using StringContent loginParameters = new(JsonSerializer.Serialize(new
             {
                 user = "admin",
                 password = "admin"
@@ -38,10 +40,12 @@ namespace Models
 
             using HttpResponseMessage response = await client.PostAsync(
             "api/v1/login",
-            jsonContent);
+            loginParameters);
 
+            // Throws an execption if fail on login.
             response.EnsureSuccessStatusCode();
 
+            // Parses response to a bearer session token.
             var jsonResponse = await response.Content.ReadAsStreamAsync();
             Token? token = await JsonSerializer.DeserializeAsync<Token>(jsonResponse);
 
@@ -52,10 +56,12 @@ namespace Models
             return response.StatusCode;
         }
 
-        async Task ChangeConfig()
+        public async Task ChangeConfig()
         {
+            await this.LoginPrinter();
+
             // Setups HttpClient for connection
-            HttpClient client = new HttpClient () {
+            HttpClient client = new() {
                 BaseAddress = new Uri(Ip)
             };
 
@@ -71,25 +77,26 @@ namespace Models
                 driver_config = driver
             };
 
-            var json = JsonSerializer.Serialize(driver_config);
-            Console.WriteLine(json.ToString());
-            using StringContent jsonContent = new(json,
+            // Serializes driver configuration options.
+            var driverConfigSerialized = JsonSerializer.Serialize(driver_config);
+            Console.WriteLine(driverConfigSerialized.ToString());
+            using StringContent driverConfigJsonContent = new(driverConfigSerialized,
                 Encoding.UTF8,
                 "application/json");
 
+            // Setups bearer token to the session.
             client.DefaultRequestHeaders.TryAddWithoutValidation("Authorization", Session);
 
             using HttpResponseMessage response = await client.PostAsync(
               "api/v1/configuration",
-              jsonContent
+              driverConfigJsonContent
               );
 
+            // Throws an execption if fails.
             response.EnsureSuccessStatusCode();
 
             Console.WriteLine($"{await response.Content.ReadAsStringAsync()}");
         }
-
-
     }
 
 }
