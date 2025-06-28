@@ -23,6 +23,8 @@ namespace Models
 
         async Task<HttpStatusCode?> LoginPrinter()
         {
+            Console.WriteLine($"Logging on printer {this.Name}.");
+
             // Setups HttpClient for connection
             HttpClient client = new()
             {
@@ -58,6 +60,7 @@ namespace Models
 
         public async Task ChangeConfig()
         {
+            Console.WriteLine($"Setupping printer {this.Name}...");
             await this.LoginPrinter();
 
             // Setups HttpClient for connection
