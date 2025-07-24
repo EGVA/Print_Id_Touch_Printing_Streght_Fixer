@@ -1,4 +1,4 @@
-#Auto-fix for Touch Id, Print Id Touch printer.
+# Auto-fix for Touch Id, Print Id Touch printer.
 
 ## Explanation
  There's a problem on my restaurante with this specific model of thermal printers
