@@ -26,3 +26,17 @@ E:\Arrumar-Impressora\obj\Debug\net9.0\refint\Arrumar-Impressora.dll
 E:\Arrumar-Impressora\obj\Debug\net9.0\Arrumar-Impressora.pdb
 E:\Arrumar-Impressora\obj\Debug\net9.0\Arrumar-Impressora.genruntimeconfig.cache
 E:\Arrumar-Impressora\obj\Debug\net9.0\ref\Arrumar-Impressora.dll
+F:\Arrumar-Impressora\bin\Debug\net9.0\Arrumar-Impressora.exe
+F:\Arrumar-Impressora\bin\Debug\net9.0\Arrumar-Impressora.deps.json
+F:\Arrumar-Impressora\bin\Debug\net9.0\Arrumar-Impressora.runtimeconfig.json
+F:\Arrumar-Impressora\bin\Debug\net9.0\Arrumar-Impressora.dll
+F:\Arrumar-Impressora\bin\Debug\net9.0\Arrumar-Impressora.pdb
+F:\Arrumar-Impressora\obj\Debug\net9.0\Arrumar-Impressora.GeneratedMSBuildEditorConfig.editorconfig
+F:\Arrumar-Impressora\obj\Debug\net9.0\Arrumar-Impressora.AssemblyInfoInputs.cache
+F:\Arrumar-Impressora\obj\Debug\net9.0\Arrumar-Impressora.AssemblyInfo.cs
+F:\Arrumar-Impressora\obj\Debug\net9.0\Arrumar-Impressora.csproj.CoreCompileInputs.cache
+F:\Arrumar-Impressora\obj\Debug\net9.0\Arrumar-Impressora.dll
+F:\Arrumar-Impressora\obj\Debug\net9.0\refint\Arrumar-Impressora.dll
+F:\Arrumar-Impressora\obj\Debug\net9.0\Arrumar-Impressora.pdb
+F:\Arrumar-Impressora\obj\Debug\net9.0\Arrumar-Impressora.genruntimeconfig.cache
+F:\Arrumar-Impressora\obj\Debug\net9.0\ref\Arrumar-Impressora.dll

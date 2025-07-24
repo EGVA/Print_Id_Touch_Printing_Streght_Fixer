@@ -6,7 +6,7 @@ class Program
 {
     static async Task Main(string[] args)
     {
-        string printerList = await File.ReadAllTextAsync("E:/Arrumar-Impressora/printers.json");
+        string printerList = await File.ReadAllTextAsync("F:/Arrumar-Impressora/printers.json");
 
         Printer[]? printers = [];
 

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Arrumar-Impressora\\Arrumar-Impressora.csproj",
+      "projectUniqueName": "F:\\Arrumar-Impressora\\Arrumar-Impressora.csproj",
       "projectName": "Arrumar-Impressora",
-      "projectPath": "E:\\Arrumar-Impressora\\Arrumar-Impressora.csproj",
+      "projectPath": "F:\\Arrumar-Impressora\\Arrumar-Impressora.csproj",
       "packagesPath": "C:\\Users\\ericv\\.nuget\\packages\\",
-      "outputPath": "E:\\Arrumar-Impressora\\obj\\",
+      "outputPath": "F:\\Arrumar-Impressora\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ericv\\AppData\\Roaming\\NuGet\\NuGet.Config"
